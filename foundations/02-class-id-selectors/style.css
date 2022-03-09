@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(243, 154, 168);
+    font-family: Verdana, DejaVu sans, sans-serif;
+    font-weight: 400px
+}
+
+#element2 {
+    color:blue;
+    font-size: 36px;
+}
+
+#element4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
+.dual {
+    font-size: 24px;
+}
